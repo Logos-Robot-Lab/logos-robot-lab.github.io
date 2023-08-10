@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Logos Robotics Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Logos Robotics Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -191,6 +191,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
+ -->
+<!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+ -->
