@@ -8,18 +8,77 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
-  photo: rock.jpg
+- name: Divyanshu Raj 
+  photo: s3.webp
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
   number_educ: 0
   education1:
 
-- name: Tessa Van der Ent
-  photo: rock.jpg
+- name: Adarsh Hiremath
+  photo: s4.webp
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
   number_educ: 0
   education1:
 
 
+- name: Anmol Gupta
+  photo: s2.webp7
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Prabin Rath
+  photo: s5.webp
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Suresh Kondepudi
+  photo: s6.webp
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+
+- name: Pawan Kumar
+  photo: s2.webp
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Nupoor Bibawe
+  photo: s1.webp
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+
+- name: Shreya Krishna
+  photo: s5.webp
+  info: Master student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+
+- name: Taehoon Kwon
+  photo: s6.webp
+  info: Bachelor's student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+
+- name: Alma Babbit
+  photo: s7.webp
+  info: Bachelor's student
+  # email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
