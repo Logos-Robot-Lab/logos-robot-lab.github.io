@@ -350,23 +350,32 @@
 #     display: Phys. Rev. Lett. 101, 026407 (2008)
 #   highlight: 0
 
-# - title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-#   image: Pub_hBN.png
-#   description:
-#     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-#   authors:
-#     MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-#   link:
-#     url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-#     display: Nanoscale Research Letters 2, 94 (2007)
-#   highlight: 1
+- title: Interactive Visual Task Learning for Robots
+  image: weiwei_aaai24.png
+  description: "We present a framework for robots to learn novel visual concepts and tasks via in-situ linguistic interactions with human users."
+  authors:
+    Weiwei Gu, Anant Sah, Nakul Gopalan
+  link:
+    url: https://arxiv.org/abs/2312.13219
+    display: In Proceedings of The 38th Annual AAAI Conference on Artificial Intelligence
+  highlight: 1
 
-# - title: Photoelectron Diffraction for a Look inside Nanostructures
-#   image: dummy.png
-#   description: ""
-#   authors:
-#     J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-#   link:
-#     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-#     display: CHIMIA 11, 759 (2006)
-#   highlight: 0
+- title: Learning Generalizable Visual Task Through Interaction
+  image: dummy.png
+  description: "We present a framework for robots to learn novel visual concepts and1 visual tasks via in-situ linguistic interactions with human users."
+  authors:
+    Weiwei Gu, Anant Sah, Nakul Gopalan 
+  link:
+    url: https://openreview.net/forum?id=kSnTlU6PqU
+    display: CoRL 2023 Workshop on Language and Robot Learning- Language as Grounding
+  highlight: 0
+
+- title: Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains
+  image: dummy.png
+  description: "In this work, we present an approach to identify sub-tasks within a demonstrated robot trajectory using language instructions."
+  authors:
+    Divyanshu Raj, Chitta Baral, Nakul Gopalan
+  link:
+    url: https://arxiv.org/abs/2309.00743
+    display: RSS 2023 Workshop on Articulate Robots- Utilizing Language for Robot Learning
+  highlight: 0
