@@ -15,6 +15,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
         <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
@@ -26,11 +27,22 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_20230713_162520.jpg" alt="Slide 1" />
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1650.JPG" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1675.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_6287.jpg" alt="Slide 4" />
+        </div>
+
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PXL_20230505_195025554.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PXL_20230505_213945105.jpg" alt="Slide 3" />
-        </div>
+        </div> -->
+
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
