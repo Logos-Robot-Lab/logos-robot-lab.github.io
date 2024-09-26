@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Weiwei Gu and Anant Sah's [paper](https://arxiv.org/abs/2312.13219) on interactive learning accepted at [AAAI 24](https://aaai.org/aaai-conference/)** 
+**News: Two papers from the lab have been accepted to [IROS 2024](https://iros2024-abudhabi.org/accepted-papers)!** 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

@@ -6,6 +6,15 @@
 - name: Omkar Patil
   photo: s2.jpg
   info: PhD Student
+
+- name: Anant Sah
+  photo: s3.jpg
+  info: PhD student
+
+- name: Anmol Gupta
+  photo: s4.jpg
+  info: PhD student
+
 # - name: Jianfeng (Jacky) Ge
 #   photo: Jacky.jpg
 #   info: Postdoc, started Oct 2019
