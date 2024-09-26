@@ -360,22 +360,22 @@
     display: In Proceedings of The 38th Annual AAAI Conference on Artificial Intelligence
   highlight: 1
 
-- title: Learning Generalizable Visual Task Through Interaction
-  image: dummy.png
-  description: "We present a framework for robots to learn novel visual concepts and1 visual tasks via in-situ linguistic interactions with human users."
-  authors:
-    Weiwei Gu, Anant Sah, Nakul Gopalan 
-  link:
-    url: https://openreview.net/forum?id=kSnTlU6PqU
-    display: CoRL 2023 Workshop on Language and Robot Learning- Language as Grounding
-  highlight: 0
+# - title: Learning Generalizable Visual Task Through Interaction
+#   image: dummy.png
+#   description: "We present a framework for robots to learn novel visual concepts and1 visual tasks via in-situ linguistic interactions with human users."
+#   authors:
+#     Weiwei Gu, Anant Sah, Nakul Gopalan 
+#   link:
+#     url: https://openreview.net/forum?id=kSnTlU6PqU
+#     display: CoRL 2023 Workshop on Language and Robot Learning- Language as Grounding
+#   highlight: 0
 
-- title: Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains
-  image: dummy.png
-  description: "In this work, we present an approach to identify sub-tasks within a demonstrated robot trajectory using language instructions."
-  authors:
-    Divyanshu Raj, Chitta Baral, Nakul Gopalan
-  link:
-    url: https://arxiv.org/abs/2309.00743
-    display: RSS 2023 Workshop on Articulate Robots- Utilizing Language for Robot Learning
-  highlight: 0
+# - title: Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains
+#   image: dummy.png
+#   description: "In this work, we present an approach to identify sub-tasks within a demonstrated robot trajectory using language instructions."
+#   authors:
+#     Divyanshu Raj, Chitta Baral, Nakul Gopalan
+#   link:
+#     url: https://arxiv.org/abs/2309.00743
+#     display: RSS 2023 Workshop on Articulate Robots- Utilizing Language for Robot Learning
+#   highlight: 0
