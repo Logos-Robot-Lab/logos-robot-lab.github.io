@@ -1,4 +1,22 @@
-# - name: Maarten Leeuwenhoek, Spring 2015
+- name: Divyanshu Raj
+  graduated: Spring 2024
+  info: Software Development Engineer at Amazon
+  website: https://divraz.github.io/
+
+- name: Prabin Kumar Rath
+  graduated: Spring 2024
+  info: MLOps Engineer Intern at Experian
+  website: https://prabinrath.github.io/
+
+- name: Anant Sah
+  graduated: Spring 2024
+  info: PhD student @ ASU
+  # website: https://prabinrath.github.io/
+
+- name: Anmol Gupta
+  graduated: Spring 2024
+  info: PhD student @ ASU
+  website: https://www.anmolgupta.in/
 
 # - name: Koen M Bastiaans, Spring 2015
 

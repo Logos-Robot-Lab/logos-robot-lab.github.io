@@ -83,8 +83,9 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <h4><a href="{{ member.website }}">{{ member.name }}</a></h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i><br>
+  Joined: {{ member.joined}}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -146,7 +147,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{ member.website }}">{{ member.name }}</a></h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -252,8 +253,8 @@ permalink: /team/
 {% endif %}
 
 
-
-<!-- ## Alumni
+<!-- 
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -286,33 +287,26 @@ permalink: /team/
 </div>
 {% endif %} -->
 
-<!-- ## Former visitors, BSc/ MSc students
+## Alumni
 <div class="row">
 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
+  <div class="col-sm-6 clearfix">
+  <h4>Master students</h4>
+  {% for member in site.data.alumni_msc %}
+  <b><a href="{{ member.website }}">{{ member.name }}</a></b>, {{ member.graduated }} <br>
+  {{ member.info }}
+  {% endfor %}
+  </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
+  <div class="col-sm-6 clearfix">
+  <h4>Bachelor Students</h4>
+  {% for member in site.data.alumni_bsc %}
+  <b><a href="{{ member.website }}">{{ member.name }}</a></b>, {{ member.graduated }} <br>
+  {{ member.info }}
+  {% endfor %}
+  </div>
 
 </div>
-
- -->
 <!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
  -->

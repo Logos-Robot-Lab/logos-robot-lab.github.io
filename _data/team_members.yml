@@ -1,19 +1,27 @@
 
 - name: Weiwei Gu
+  website: https://weiweigu1998.github.io/
   photo: s1.jpg
   info: PhD Student
+  joined: Fall 2022
   
 - name: Omkar Patil
+  website: https://www.linkedin.com/in/omkar-patil-957958134/
   photo: s2.jpg
   info: PhD Student
+  joined: Fall 2023
 
 - name: Anant Sah
+  website: https://www.linkedin.com/in/anant-sah-97877516b/
   photo: s3.jpg
   info: PhD student
+  joined: Fall 2024
 
 - name: Anmol Gupta
+  website: https://www.anmolgupta.in/
   photo: s4.jpg
   info: PhD student
+  joined: Fall 2024
 
 # - name: Jianfeng (Jacky) Ge
 #   photo: Jacky.jpg

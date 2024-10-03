@@ -16,6 +16,7 @@
 #   education1:
 
 - name: Adarsh Hiremath
+  website: https://www.linkedin.com/in/adarshiremath/
   photo: s4.jpg
   info: Master student
   # email: m.ortego.larrazabal@umail.leidenuniv.nl
@@ -30,6 +31,7 @@
 #   education1:
 
 - name: Suresh Kondepudi
+  website: https://skrish.dev/
   photo: s6.jpg
   info: Master student
   # email: m.ortego.larrazabal@umail.leidenuniv.nl
