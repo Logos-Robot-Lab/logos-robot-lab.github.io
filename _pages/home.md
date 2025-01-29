@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Two papers from the lab have been accepted to [IROS 2024](https://iros2024-abudhabi.org/accepted-papers)!** 
+**News: A paper from the lab has been accepted into ICRA 2025!** 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
